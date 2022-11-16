@@ -43,12 +43,18 @@ text-align: right;
     color: whitesmoke;
     text-align: center;
 }
-.resume{
+/* .resume{
+    position: relative;
+    text-align: center;
+} */
+ .resume{
     position: relative;
     text-align: center;
 }
-.resume h3{
-    background-color: rgba(4,9,30,0.7);
-    color: whitesmoke;
+
+.resume p{
+    text-decoration: none!important;
     text-align: center;
+    color: whitesmoke;
+    font-size: x-large;
 }
