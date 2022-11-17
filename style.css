@@ -55,6 +55,7 @@ text-align: right;
 .resume p{
     text-decoration: none!important;
     text-align: center;
+    display: inline-block;
     color: whitesmoke;
     font-size: x-large;
 }
